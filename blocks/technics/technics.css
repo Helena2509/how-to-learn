@@ -1,0 +1,23 @@
+@import url(./cards/cards.css);
+
+@import url(./cards/__item/cards__item.css);
+
+@import url(./cards/__item_description/cards__item_description.css);
+
+@import url(./cards/__item_image/cards__item_image.css);
+
+@import url(./cards/__item_title/cards__item_title.css);
+
+.technics {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ 
+
+ 
+ 
+
+ 
+
+ 

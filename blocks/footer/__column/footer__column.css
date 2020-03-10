@@ -1,0 +1,5 @@
+.footer__column {
+    display: flex;
+    padding-inline-start: 0px;
+    flex-direction: row;
+ }
