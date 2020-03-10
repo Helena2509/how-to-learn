@@ -2,11 +2,11 @@
 
 @import url(./cards/__item/cards__item.css);
 
-@import url(./cards/__item_description/cards__item_description.css);
+@import url(./card/__item_description/card__item_description.css);
 
-@import url(./cards/__item_image/cards__item_image.css);
+@import url(./card/__item_image/card__item_image.css);
 
-@import url(./cards/__item_title/cards__item_title.css);
+@import url(./card/__item_title/card__item_title.css);
 
 .technics {
     display: flex;

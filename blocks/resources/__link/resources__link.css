@@ -1,0 +1,7 @@
+.resources__link:hover {
+    opacity: 0.5;
+    background-color: cornflowerblue;
+    transition-property: opacity;
+    transition-property: background-color;
+    transition-duration: 0.7s;
+    transition-timing-function: linear;}

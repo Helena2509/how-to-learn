@@ -1,10 +1,10 @@
-@import url(./__img/feiman__img.css);
+@import url(./__img/feinman__img.css);
 
 @import url(./__link/feinman__link.css);
 
 @import url(./__subtitle/feinman__subtitle.css);
 
-@import url(./__tittle/feinman__tittle.css);
+@import url(./__title/feinman__title.css);
 
 .feinman {
     height: 790px;

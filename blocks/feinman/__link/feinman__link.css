@@ -9,6 +9,10 @@
  }
 
  .feinman__link:hover {
-    opacity: 0.5;
-    transition: opacity .15s ease-in-out;
+   opacity: 0.6;
+   color: navy;
+   transition-property: opacity;
+   transition-property: color;
+   transition-duration: 1s;
+   transition-timing-function: linear;
     }

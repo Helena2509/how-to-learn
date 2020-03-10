@@ -4,4 +4,7 @@
     font-size: 60px;
     line-height: 69px;
     font-weight: bold;
+    margin: 100px 0px 20px;
+    position: relative;
+    z-index: 1;
  }
