@@ -1,14 +1,14 @@
 .header__link { 
     text-decoration: none;
     color: #2F80ED;
- }
-
- .header__link:hover {
-    opacity: 0.6;
-    color: navy;
     transition-property: opacity;
     transition-property: color;
     transition-duration: 0.5s;
     transition-timing-function: linear;
+ }
+
+ .header__link:hover {
+   opacity: 0.6;
+   color: navy;
  }
  

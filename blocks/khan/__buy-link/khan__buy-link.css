@@ -5,13 +5,13 @@
     text-decoration: none;
     color: #2F80ED;
     margin-left: 20px;
+    transition-property: opacity;
+    transition-property: color;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
  }
 
  .khan__buy-link:hover {
     opacity: 0.5;
     color: navy;
-    transition-property: opacity;
-    transition-property: color;
-    transition-duration: 0.5s;
-    transition-timing-function: linear;
     }

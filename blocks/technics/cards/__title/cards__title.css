@@ -1,5 +1,6 @@
-.card__item_title {
+.cards__title {
     margin-bottom: 16px;
+    margin-top: 0px;
     font-size: 24px;
     line-height: 1.15;
     font-weight: bold;
